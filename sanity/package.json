@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Nader.Elhaj <naderelhaj3@gmail.com>",
+  "author": "Khaled ben ouada <naderelhaj3@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
