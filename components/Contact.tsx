@@ -27,11 +27,11 @@ function Contact() {
         <div className="space-y-4">
           <div className="flex items-center space-x-5 justify-center">
             <PhoneIcon className="h-7 w-7 text-[#f7ab0a] " />
-            <p className="text-xl md:2xl">+216 52 241 103</p>
+            <p className="text-xl md:2xl">+216 54 873 579</p>
           </div>
           <div className="flex items-center space-x-5 justify-center">
             <EnvelopeIcon className="h-7 w-7 text-[#f7ab0a] " />
-            <p className="text-xl md:2xl">naderelhaj3@gmail.com</p>
+            <p className="text-xl md:2xl">wadakhaled5@gmail.com</p>
           </div>
           <div className="flex items-center space-x-5 justify-center">
             <MapIcon className="h-7 w-7 text-[#f7ab0a] " />
