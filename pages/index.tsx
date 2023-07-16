@@ -74,7 +74,7 @@ const Home: NextPage<Props> = ({pageInfo,experiences,projects,skills,socials}:Pr
         <div className='flex items-center justify-center'>
           <div className='relative w-10 h-10  filter grayscale hover:grayscale-0'>
 
-          <Image src="/images/me.jpg" alt="Avatar" objectFit='cover' layout='fill' className='rounded-full' />
+          <Image src="/images/khaled.jpeg" alt="Avatar" objectFit='cover' layout='fill' className='rounded-full' />
           </div>
         </div>
       </footer>
