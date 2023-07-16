@@ -7,7 +7,7 @@ const config =  {
     useCdn: process.env.NODE_ENV === "production",
     apiVersion: "2021-03-25",
 }
-
+//vommited
 export const sanityClient = createClient(config);
 
 export const urlFor = (source :any ) => createImageUrlBuilder(config).image(source);
