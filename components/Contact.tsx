@@ -31,11 +31,11 @@ function Contact() {
           </div>
           <div className="flex items-center space-x-5 justify-center">
             <EnvelopeIcon className="h-7 w-7 text-[#f7ab0a] " />
-            <p className="text-xl md:2xl">wadakhaled5@gmail.com</p>
+            <p className="text-xl md:2xl">beouadakhaled@gmail.com</p>
           </div>
           <div className="flex items-center space-x-5 justify-center">
             <MapIcon className="h-7 w-7 text-[#f7ab0a] " />
-            <p className="text-xl md:2xl">Sahloul , Sousse</p>
+            <p className="text-xl md:2xl">Sousse</p>
           </div>
         </div>
         <form
