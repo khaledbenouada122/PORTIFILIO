@@ -12,11 +12,12 @@ type Props = {
 
 function Hero({pageInfo}: Props) {
   const [text, count] = useTypewriter({
-    words: [`Hi,The Name's ${pageInfo?.name}`, "Developer", "Freelancer"],
+    words: [`Hi,The Name's ${pageInfo?.name}`, "FullStack developer", "React/Nextjs developer"],
     loop: true,
     delaySpeed: 2000,
   });
   return (
+    
     <div className="h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden ">
       <BackgroundCircles />
       <div className="relative rounded-full h-32 w-32 mx-auto ">
