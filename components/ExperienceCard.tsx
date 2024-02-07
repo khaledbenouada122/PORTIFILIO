@@ -20,7 +20,7 @@ function ExperienceCard({experience}: Props) {
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         src={urlFor(experience.companyImage).url()}
-        className=" relative w-32 h-32 xl:w-[200px] xl:h-[200px] rounded-full object-center object-contain   "
+        className=" relative w-32 h-32 xl:w-[150px] xl:h-[150px] rounded-full object-center object-contain   "
       />
       <div className="px-0 md:px-10 ">
         <h4 className="text-4xl font-light">{experience.jobTitle}</h4>
